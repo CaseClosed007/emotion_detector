@@ -1,0 +1,5 @@
+Flask
+tensorflow==2.10
+opencv-python
+numpy
+Pillow
